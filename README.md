@@ -59,7 +59,7 @@ restaurant-tips-analysis/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/restaurant-tips-analysis.git
+   git clone https://github.com/profpius/restaurant-tips-analysis.git
    cd restaurant-tips-analysis
    ```
 
@@ -79,7 +79,7 @@ restaurant-tips-analysis/
 
 ## 📈 Key Findings
 
-- The **average tip** is around **$3.00**, with most tips falling between $2 and $4.
+- The **average tip** is around **$3.00**, with most tips falling between **$2 and $4**.
 - There is a **positive relationship** between total bill and tip — bigger bills generally lead to bigger tips.
 - **Weekends (Saturday & Sunday)** tend to see slightly higher tip amounts.
 - **Smaller groups** tip a higher percentage of the bill compared to larger tables.

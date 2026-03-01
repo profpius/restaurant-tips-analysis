@@ -104,9 +104,8 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
-
+**Pius Victor**  
+GitHub: [@profpius](https://github.com/profpius)
 ---
 
 ## 📝 License

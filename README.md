@@ -1,6 +1,7 @@
 # 🍽️ Restaurant Tips Data Analysis
 
-A beginner-friendly data analysis project exploring tipping behavior at restaurants using Python and Jupyter Notebook.
+A data analysis project exploring tipping behavior 
+at restaurants using Python and Jupyter Notebook.
 
 ---
 

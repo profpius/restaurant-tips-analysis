@@ -46,12 +46,7 @@ restaurant-tips-analysis/
 │
 ├── analysis.ipynb       # Main Jupyter Notebook with all analysis
 ├── README.md            # Project overview (this file)
-├── requirements.txt     # Python dependencies
-└── images/              # Saved chart images
-    ├── tip_distribution.png
-    ├── bill_vs_tip.png
-    ├── tips_by_day.png
-    └── tips_by_size.png
+├── requirements.txt     # Python 
 ```
 
 ---
@@ -60,7 +55,7 @@ restaurant-tips-analysis/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/restaurant-tips-analysis.git
+   git clone https://github.com/profpius/restaurant-tips-analysis.git
    cd restaurant-tips-analysis
    ```
 
